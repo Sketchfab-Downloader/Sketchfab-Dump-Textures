@@ -1,4 +1,4 @@
-<b><h1>Sketchfab Textures Dump Tool.</h1></b>
+<b><h1>Sketchfab Textures Dump Tool v2 (Last Update: 02/07/2023)</h1></b>
 
 <table>
     <tr>
